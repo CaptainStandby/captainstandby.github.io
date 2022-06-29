@@ -32,7 +32,9 @@ about_content: |
   I have extensive experience developing, delivering and operating cloud native applications.
   My work covered multifaceted projects providing me with comprehensive teamwork and technology skills as well as deep insights in requirements analysis.
 
-  I'm most skilled in C#, Kubernetes, Azure and am always interested in solving problems and learning new things.
+  I'm most skilled in C#, Kubernetes, Azure.
+
+  My motivation comes from learning new things, expanding my skill set and solving difficult problems.
 
 content:
   - title: Experience
@@ -46,9 +48,9 @@ content:
         caption: 2017 - Present
         description: |
           Design and implementation of a Cloud native web application deployed using Kubernetes (Azure AKS).
-          - Responsibility for overall system architecture, server side business logic ???
-          - Established a continuous delivery pipeline using Azure DevOps, Github and ArgoCD
-          - Advocating for clean code, modular and robust software design using SOLID design principles aimed at high productivity and fast product delivery.
+          - Responsibility for overall system architecture, business logic and operations.
+          - Established a continuous delivery pipeline using Azure DevOps, Github and ArgoCD.
+          - Advocating for clean code, modular and robust software design aimed at high productivity and fast product delivery.
           - Leading the project to rebuild the frontend as a single-page application using .NET Core, Vue.js and TypeScript.
           - Designing and implementing an Event Sourcing framework in .NET Core
           - Implementing a GraphQL-API Gateway in Typescript utilizing gRPC for backend communication.
@@ -65,7 +67,7 @@ content:
           I was responsible for all aspects of software design, development and architecture using C#, C++ and other Languages and Technologies
           - Expansion and evolution of a C++ MFC based application using C++/CLI and C#.
           - Serving customers primarily from the pharmaceutical industry and expanding the software with respect to strict industry standards and regulations.
-          - Developed and maintained build pipelines using SVN, MSBuild and CruiseControl.NET
+          - Developed and maintained build pipelines using SVN, MSBuild and CruiseControl.NET.
 
       - title: Daedalic Entertainment GmbH
         layout: left
