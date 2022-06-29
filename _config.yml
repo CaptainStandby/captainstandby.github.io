@@ -49,7 +49,7 @@ content:
         description: |
           Design and implementation of a Cloud native web application deployed using Kubernetes (Azure AKS).
           - Responsibility for overall system architecture, business logic and operations.
-          - Established a continuous delivery pipeline using Azure DevOps, Github and ArgoCD.
+          - Established a continuous delivery pipeline using Azure DevOps, GitOps, ArgoCD and infrastructure as code (IaC).
           - Advocating for clean code, modular and robust software design aimed at high productivity and fast product delivery.
           - Leading the project to rebuild the frontend as a single-page application using .NET Core, Vue.js and TypeScript.
           - Designing and implementing an Event Sourcing framework in .NET Core
@@ -100,7 +100,9 @@ content:
         link: https://github.com/CaptainStandby/analog_gauge_reader
         description: |
           For my home automation project I wanted to monitor the flow and return flow temperature of the heating system in my home.
-          I implemented a service in Python to capture IP Camera images, process them using OpenCV and expose measurements via a Prometheus interface.
+          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi to capture pictures of the gauges. Using Python and image processing with OpenCV I developed an algorithm to measure estimate the TODO
+
+          I implemented a service in Python to capture images process IP Camera images, them using OpenCV and expose measurements via a Prometheus interface.
 
   - title: Skills
     layout: list
@@ -112,15 +114,15 @@ content:
       - title: Typescript
         layout: left
         description: |
-          Developed server side applications and customer facing SPAs
-      - title: C / C++
-        layout: left
-        description: |
-          Very good understanding of language and concepts
+          Developed server side applications and customer facing SPAs.
       - title: Kubernetes
         layout: left
         description: |
-          Maintained cloud native applications running on Kubernetes
+          Designed and brought into production cloud native applications running on Kubernetes.
+      - title: C / C++
+        layout: left
+        description: |
+          Very good understanding of language and concepts.
       - title: Other Technologies, I have worked with
         layout: left
         description: |
@@ -134,6 +136,7 @@ content:
           - React.js
           - Python
           - Kustomize
+          - Infrastructure as Code
 
   - title: Education
     layout: list
