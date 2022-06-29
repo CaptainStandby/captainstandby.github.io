@@ -47,12 +47,12 @@ content:
         sub_title: Senior Software Engineer
         caption: 2017 - Present
         description: |
-          Design and implementation of a Cloud native web application deployed using Kubernetes (Azure AKS).
+          Design and implementation of a cloud native web application deployed using Kubernetes (Azure AKS).
           - Responsibility for overall system architecture, business logic and operations.
           - Established a continuous delivery pipeline using Azure DevOps, GitOps, ArgoCD and infrastructure as code (IaC).
           - Advocating for clean code, modular and robust software design aimed at high productivity and fast product delivery.
           - Leading the project to rebuild the frontend as a single-page application using .NET Core, Vue.js and TypeScript.
-          - Designing and implementing an Event Sourcing framework in .NET Core
+          - Designing and implementing an event sourcing framework in .NET Core
           - Implementing a GraphQL-API Gateway in Typescript utilizing gRPC for backend communication.
 
       - layout: left
@@ -62,9 +62,11 @@ content:
         sub_title: Software Engineer
         caption: March 2010 - 2016
         quote: >
-          Founded in 2002 in Hamburg, Germany, EyeC is the market's only supplier to ensure the product quality throughout the entire printing process — from the first artwork file to the finished product.
+          Founded in 2002 in Hamburg, Germany, EyeC is the market leader for quality control throughout the entire printing process.
+          EyeC employs state of the art image processing algorithms to detect differences and missprints in packaging of pharmaceutical and other products.
+
         description: |
-          I was responsible for all aspects of software design, development and architecture using C#, C++ and other Languages and Technologies
+          I was responsible for all aspects of software design, development and architecture using C#, C++ and other languages and technologies
           - Expansion and evolution of a C++ MFC based application using C++/CLI and C#.
           - Serving customers primarily from the pharmaceutical industry and expanding the software with respect to strict industry standards and regulations.
           - Developed and maintained build pipelines using SVN, MSBuild and CruiseControl.NET.
@@ -100,9 +102,7 @@ content:
         link: https://github.com/CaptainStandby/analog_gauge_reader
         description: |
           For my home automation project I wanted to monitor the flow and return flow temperature of the heating system in my home.
-          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi to capture pictures of the gauges. Using Python and image processing with OpenCV I developed an algorithm to measure estimate the TODO
-
-          I implemented a service in Python to capture images process IP Camera images, them using OpenCV and expose measurements via a Prometheus interface.
+          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi to capture pictures of the gauges. Using image processing with OpenCV I implemented a service in Python to measure the displayed temperature. The measurments were then exposed via a Prometheus interface.
 
   - title: Skills
     layout: list
@@ -149,12 +149,13 @@ content:
         link_text: fh-wedel.de
         quote: >
           The Fachhochschule Wedel University of Applied Sciences is a well-known private university with approximately 1.300 enrolled students located in the Hamburg Metropolitan Area in Northern Germany.
-        description: TODO
+        description: |
+          My primary fields of study were in computer graphics and virtual reality.
 
-      - layout: left
-        title: Technisches Gymnasium, Hamburg, Germany
-        caption: '2005'
-        sub_title: Abitur (A Level)
+      # - layout: left
+      #   title: Technisches Gymnasium, Hamburg, Germany
+      #   caption: '2005'
+      #   sub_title: Abitur (A Level)
         # description: |
 
 
