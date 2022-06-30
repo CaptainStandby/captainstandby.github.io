@@ -102,7 +102,7 @@ content:
         link: https://github.com/CaptainStandby/analog_gauge_reader
         description: |
           For my home automation project I wanted to monitor the flow and return flow temperature of the heating system in my home.
-          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi to capture pictures of the gauges. Using image processing with OpenCV I implemented a service in Python to measure the displayed temperature. The measurments were then exposed via a Prometheus interface.
+          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi to capture pictures of the gauges. Using image processing with OpenCV I implemented a service in Python to measure the displayed temperature. The measurements were then exposed via a Prometheus interface.
 
   - title: Skills
     layout: list
