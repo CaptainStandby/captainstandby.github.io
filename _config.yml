@@ -126,7 +126,7 @@ content:
       - title: Other Technologies, I have worked with
         layout: left
         description: |
-          Terraform, Docker, Linux, Azure, AWS, GCP (Firebase), Vue.js, React.js, Python, Kustomize, Infrastructure as Code, auth0, GraphQL
+          Terraform, Docker, Linux, Azure, AWS, GCP (Firebase), Vue.js, React.js, Python, Java, Kotlin, Kustomize, Infrastructure as Code, auth0, GraphQL
 
   - title: Education
     layout: list
