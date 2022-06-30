@@ -27,10 +27,11 @@ additional_links:
 # About Section
 about_title: About Me
 # about_profile_image: images/profile.jpg
-about_content: |
+about_content: >
   Hi, my name's Henning and I'm a senior software engineer.
   I have extensive experience developing, delivering and operating cloud native applications.
-  My work covered multifaceted projects providing me with comprehensive teamwork and technology skills as well as deep insights in requirements analysis.
+  My work covered multifaceted projects providing me with comprehensive teamwork and
+  technology skills as well as deep insights in requirements analysis.
 
   I'm most skilled in C#, Kubernetes, Azure.
 
@@ -62,8 +63,10 @@ content:
         sub_title: Software Engineer
         caption: March 2010 - 2016
         quote: >
-          Founded in 2002 in Hamburg, Germany, EyeC is the market leader for quality control throughout the entire printing process.
-          EyeC employs state of the art image processing algorithms to detect differences and missprints in packaging of pharmaceutical and other products.
+          Founded in 2002 in Hamburg, Germany, EyeC is the market leader for quality
+          control throughout the entire printing process.
+          EyeC employs state of the art image processing algorithms to detect differences
+          and missprints in packaging of pharmaceutical and other products.
 
         description: |
           I was responsible for all aspects of software design, development and architecture using C#, C++ and other languages and technologies
@@ -86,8 +89,9 @@ content:
         link_text: airbus.com
         sub_title: Internship
         caption: Feburary-September 2009
-        description: |
-          Research and development of an optimization software for simulated water distribution piping systems using C#.
+        description: >
+          Research and development of an optimization software for simulated water
+          distribution piping systems using C#.
 
   - title: Projects
     layout: list
@@ -95,14 +99,19 @@ content:
       - layout: top-middle
         title: Wedding RSVP App
         link: https://gitlab.com/henning-private/wedding-rsvp
-        description: |
-          I'm getting married this year and wanted to do a completely digital invitation, so I started this project utilizing Googles Firebase and React.js.
+        description: >
+          I'm getting married this year and wanted to do a completely digital invitation,
+          so I started this project utilizing Googles Firebase and React.js.
       - layout: top-middle
         title: Analog Gauge Reader
         link: https://github.com/CaptainStandby/analog_gauge_reader
-        description: |
-          For my home automation project I wanted to monitor the flow and return flow temperature of the heating system in my home.
-          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi to capture pictures of the gauges. Using image processing with OpenCV I implemented a service in Python to measure the displayed temperature. The measurements were then exposed via a Prometheus interface.
+        description: >
+          For my home automation project I wanted to monitor the flow and return flow
+          temperature of the heating system in my home.
+          The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi
+          to capture pictures of the gauges. Using image processing with OpenCV I
+          implemented a service in Python to measure the displayed temperature. The
+          measurements were then exposed via a Prometheus interface.
 
   - title: Skills
     layout: list
@@ -125,8 +134,9 @@ content:
           Very good understanding of language and concepts.
       - title: Other Technologies, I have worked with
         layout: left
-        description: |
-          Terraform, Docker, Linux, Azure, AWS, GCP (Firebase), Vue.js, React.js, Python, Java, Kotlin, Kustomize, Infrastructure as Code, auth0, GraphQL
+        description: >
+          Terraform, Docker, Linux, Azure, AWS, GCP (Firebase), Vue.js, React.js, Python,
+          Java, Kotlin, Kustomize, Infrastructure as Code, auth0, GraphQL
 
   - title: Education
     layout: list
@@ -138,7 +148,9 @@ content:
         link: https://www.fh-wedel.de/studieren/international/incomings/
         link_text: fh-wedel.de
         quote: >
-          The Fachhochschule Wedel University of Applied Sciences is a well-known private university with approximately 1.300 enrolled students located in the Hamburg Metropolitan Area in Northern Germany.
+          The Fachhochschule Wedel University of Applied Sciences is a well-known private
+          university with approximately 1.300 enrolled students located in the Hamburg
+          Metropolitan Area in Northern Germany.
         description: |
           My primary fields of study were in computer graphics and virtual reality.
 
