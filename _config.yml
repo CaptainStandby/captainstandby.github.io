@@ -137,7 +137,7 @@ content:
         layout: left
         description: >
           Terraform, Docker, Linux, Azure, AWS, GCP (Firebase), Vue.js, React.js, Python,
-          Java, Kotlin, Kustomize, Infrastructure as Code, auth0, GraphQL, Redis, SQL
+          Java, Kotlin, Kustomize, Infrastructure as Code, GitOps, auth0, GraphQL, Redis, SQL
 
   - title: Education
     layout: list
