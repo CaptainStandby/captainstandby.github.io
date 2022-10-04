@@ -162,6 +162,15 @@ content:
       #   sub_title: Abitur (A Level)
         # description: |
 
+  - title: Language Skills
+    layout: list
+    content:
+      - title: German
+        layout: left
+        description: Native
+      - title: English
+        layout: left
+        description: Fluent
 
   - title: A Little More About Me
     layout: text
@@ -174,7 +183,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
