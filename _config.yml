@@ -22,9 +22,9 @@ linkedin_username: henning-vespermann
 
 # Additional icon links
 additional_links:
-- title: gitlab.com
-  icon: fab fa-gitlab
-  url: https://gitlab.com/hlnr
+  - title: gitlab.com
+    icon: fab fa-gitlab
+    url: https://gitlab.com/hlnr
 
 # About Section
 about_title: About Me
@@ -35,7 +35,7 @@ about_content: >
   My work covered multifaceted projects providing me with comprehensive teamwork and
   technology skills as well as deep insights in requirements analysis.
   <br>
-  I'm most skilled in C#, Typescript, Kubernetes and Azure.
+  I'm most skilled in C#, Typescript, Go, Kubernetes and Azure.
   <br>
   My motivation comes from learning new things, expanding my skill set and solving difficult problems.
 
@@ -43,6 +43,17 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: Ory Corp
+        link: https://www.ory.sh/
+        link_text: ory.sh
+        sub_title: Software Engineer
+        caption: December 2022 - May 2023
+        quote: >
+          Ory is a zero-trust platform to build secure applications and services native to the cloud
+        description: |
+          TODO
+
       - layout: left
         title: EyeC GmbH
         link: https://www.eyec.com/
@@ -126,6 +137,10 @@ content:
         layout: left
         description: |
           Developed server side applications and customer facing SPAs.
+      - title: Golang
+        layout: left
+        description: |
+          TODO
       - title: Kubernetes
         layout: left
         description: |
@@ -137,8 +152,8 @@ content:
       - title: Other Technologies, I have worked with
         layout: left
         description: >
-          Terraform, Docker, Linux, Azure, AWS, GCP (Firebase), Vue.js, React.js, Python,
-          Java, Kotlin, Kustomize, Infrastructure as Code, GitOps, auth0, GraphQL, Redis, SQL
+          Terraform, Docker, Linux, Azure, AWS, GCP, Vue.js, React.js, Python,
+          Java, Kotlin, Kustomize, Infrastructure as Code, GitOps, Ory Network, auth0, GraphQL, Redis, SQL, ChatGPT
 
   - title: Education
     layout: list
@@ -160,7 +175,7 @@ content:
       #   title: Technisches Gymnasium, Hamburg, Germany
       #   caption: '2005'
       #   sub_title: Abitur (A Level)
-        # description: |
+      # description: |
 
   - title: Language Skills
     layout: list
@@ -181,7 +196,6 @@ content:
       - Cooking
       - and I'm a volunteer firefighter
 
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
@@ -194,4 +208,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
