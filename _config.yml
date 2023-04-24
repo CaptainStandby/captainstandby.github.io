@@ -50,9 +50,13 @@ content:
         sub_title: Software Engineer
         caption: December 2022 - May 2023
         quote: >
-          Ory is a zero-trust platform to build secure applications and services native to the cloud
+          Ory is a zero-trust platform to build secure applications and services native to the cloud.
         description: |
-          TODO
+          Worked on different aspects of the Ory Identity and User Management system.
+          - Designed and implemented a metrics pipeline using OpenTelemetry, Pub/Sub and BigQuery
+            to give users insights into their systems.
+          - Migrated E2E Tests from TestCafe to Playwright.
+          - Implemented various features and bug fixes in user authentication components.
 
       - layout: left
         title: EyeC GmbH
@@ -137,10 +141,10 @@ content:
         layout: left
         description: |
           Developed server side applications and customer facing SPAs.
-      - title: Golang
+      - title: Go
         layout: left
         description: |
-          TODO
+          Worked on Identity and User Management systems written in Go.
       - title: Kubernetes
         layout: left
         description: |
@@ -152,8 +156,8 @@ content:
       - title: Other Technologies, I have worked with
         layout: left
         description: >
-          Terraform, Docker, Linux, Azure, AWS, GCP, Vue.js, React.js, Python,
-          Java, Kotlin, Kustomize, Infrastructure as Code, GitOps, Ory Network, auth0, GraphQL, Redis, SQL, ChatGPT
+          Terraform, Docker, Linux, Azure, AWS, GCP, Vue.js, React.js, Python, Playwright, OpenTelemetry,
+          Java, Kotlin, Kustomize, GitOps, Ory Network, auth0, GraphQL, Redis, SQL, ChatGPT
 
   - title: Education
     layout: list
