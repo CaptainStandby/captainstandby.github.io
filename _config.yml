@@ -52,7 +52,7 @@ content:
         quote: >
           Ory is a zero-trust platform to build secure applications and services native to the cloud.
         description: |
-          Worked on different aspects of the Ory Identity and User Management system.
+          Worked on different aspects of the Ory Identity and User Management system primarily written in Go and Typescript.
           - Designed and implemented a metrics pipeline using OpenTelemetry, Pub/Sub and BigQuery
             to give users insights into their systems.
           - Migrated E2E Tests from TestCafe to Playwright.
@@ -156,8 +156,8 @@ content:
       - title: Other Technologies, I have worked with
         layout: left
         description: >
-          Terraform, Docker, Linux, Azure, AWS, GCP, Vue.js, React.js, Python, Playwright, OpenTelemetry,
-          Java, Kotlin, Kustomize, GitOps, Ory Network, auth0, GraphQL, Redis, SQL, ChatGPT
+          Terraform, Kustomize, Docker, Linux, Azure, AWS, GCP, OpenTelemetry, Grafana, Prometheus, Python, Java, Kotlin,
+          Vue.js, React.js, Playwright, ASP.NET Core, GraphQL, Redis, PostgreSQL, CockroachDB, ChatGPT, Ory Network, Auth0
 
   - title: Education
     layout: list
