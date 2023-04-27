@@ -156,7 +156,7 @@ content:
       - title: Other Technologies, I have worked with
         layout: left
         description: >
-          Terraform, Kustomize, Docker, Linux, Azure, AWS, GCP, OpenTelemetry, Grafana, Prometheus, C / C++, Python, Java, Kotlin,
+          Terraform, Kustomize, Docker, Linux, Azure, AWS, GCP, OpenTelemetry, Grafana, Prometheus, C/C++, Python, Java, Kotlin,
           Vue.js, React.js, Playwright, ASP.NET Core, GraphQL, Redis, PostgreSQL, CockroachDB, ChatGPT
 
   - title: Education
