@@ -117,8 +117,8 @@ content:
         title: Wedding RSVP App
         link: https://gitlab.com/henning-private/wedding-rsvp
         description: >
-          I'm getting married this year and wanted to do a completely digital invitation,
-          so I started this project utilizing Googles Firebase and React.js.
+          For my wedding in 2022 I developed a completely digital invitation and RSVP
+          website utilizing Googles Firebase and React.js.
       - layout: top-middle
         title: Analog Gauge Reader
         link: https://github.com/CaptainStandby/analog_gauge_reader
