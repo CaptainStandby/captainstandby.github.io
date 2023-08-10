@@ -10,3 +10,5 @@ fi
 if [ -f Gemfile ]; then
     bundle install
 fi
+
+echo 'use `bundle exec jekyll serve` to run the dev server'
