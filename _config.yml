@@ -57,6 +57,8 @@ content:
             to give users insights into their systems.
           - Migrated and refactored E2E Tests from TestCafe to Playwright.
           - Implemented various features and bug fixes in user authentication components.
+          
+          **Primary skills: Go, Typescript, GCP, Playwright**
 
       - layout: left
         title: EyeC GmbH
@@ -72,6 +74,8 @@ content:
           - Leading the project to rebuild the frontend as a single-page application using .NET Core, Vue.js and TypeScript.
           - Designing and implementing an event sourcing framework in .NET Core
           - Implementing a GraphQL-API Gateway in Typescript utilizing gRPC for backend communication.
+          
+          **Primary skills: C#, Typescript, Kubernetes, Azure**
 
       - layout: left
         title: EyeC GmbH
@@ -90,6 +94,8 @@ content:
           - Expansion and evolution of a C++ MFC based application using C++/CLI and C#.
           - Serving customers primarily from the pharmaceutical industry and expanding the software with respect to strict industry standards and regulations.
           - Developed and maintained build pipelines using SVN, MSBuild and CruiseControl.NET.
+          
+          **Primary skills: C++, C#, MSBuild, Windows**
 
       - title: Daedalic Entertainment GmbH
         layout: left
@@ -99,6 +105,8 @@ content:
         caption: February 2010
         description: |
           Research into expanding the game development toolchain using the Unreal Engine.
+          
+          **Primary skills: Unreal Engine**
 
       - title: Airbus (EADS Innovation Works)
         layout: left
@@ -106,9 +114,11 @@ content:
         link_text: airbus.com
         sub_title: Internship
         caption: February-September 2009
-        description: >
+        description: |
           Research and development of an optimization software for simulated water
           distribution piping systems using C#.
+          
+          **Primary skills: C#, C**
 
   - title: Projects
     layout: list
@@ -116,19 +126,23 @@ content:
       - layout: top-middle
         title: Wedding RSVP App
         link: https://gitlab.com/henning-private/wedding-rsvp
-        description: >
+        description: |
           For my wedding in 2022 I developed a completely digital invitation and RSVP
           website utilizing Googles Firebase and React.js.
+          
+          **Primary skills: Typescript, React.js, Firebase**
       - layout: top-middle
         title: Analog Gauge Reader
         link: https://github.com/CaptainStandby/analog_gauge_reader
-        description: >
+        description: |
           For my home automation project I wanted to monitor the flow and return flow
           temperature of the heating system in my home.
           The boiler has analog gauges only. I connected an IP Camera to a RaspberryPi
           to capture pictures of the gauges. Using image processing with OpenCV I
           implemented a service in Python to measure the displayed temperature. The
           measurements were then exposed via a Prometheus interface.
+          
+          **Primary skills: Python, OpenCV**
 
   - title: Skills
     layout: list
@@ -174,6 +188,8 @@ content:
           Metropolitan Area in Northern Germany.
         description: |
           My primary fields of study were in computer graphics and virtual reality.
+          
+          **Primary skills: C++, OpenGL, Linux**
 
   - title: Language Skills
     layout: list
