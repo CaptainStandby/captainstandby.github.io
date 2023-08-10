@@ -66,6 +66,11 @@ content:
         link_text: eyec.com
         sub_title: Senior Software Engineer
         caption: 2017 - November 2022
+        quote: >
+          Founded in 2002 in Hamburg, Germany, EyeC is the market leader for quality
+          control throughout the entire printing process.
+          EyeC employs state of the art image processing algorithms to detect differences
+          and missprints in packaging of pharmaceutical and other products.
         description: |
           Design and implementation of a cloud native web application deployed using Kubernetes (Azure AKS).
           - Responsibility for overall system architecture, business logic and operations.
@@ -83,12 +88,6 @@ content:
         link_text: eyec.com
         sub_title: Software Engineer
         caption: March 2010 - 2016
-        quote: >
-          Founded in 2002 in Hamburg, Germany, EyeC is the market leader for quality
-          control throughout the entire printing process.
-          EyeC employs state of the art image processing algorithms to detect differences
-          and missprints in packaging of pharmaceutical and other products.
-
         description: |
           I was responsible for all aspects of software design, development and architecture using C#, C++ and other languages and technologies
           - Expansion and evolution of a C++ MFC based application using C++/CLI and C#.
