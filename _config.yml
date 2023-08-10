@@ -148,7 +148,7 @@ content:
       - title: End-to-End Testing
         layout: left
         description: |
-          Very good understandind of E2E testing especially using Playwright.
+          Very good understanding of E2E testing especially using Playwright.
       - title: Kubernetes
         layout: left
         description: |
