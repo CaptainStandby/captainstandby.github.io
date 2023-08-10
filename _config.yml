@@ -175,12 +175,6 @@ content:
         description: |
           My primary fields of study were in computer graphics and virtual reality.
 
-      # - layout: left
-      #   title: Technisches Gymnasium, Hamburg, Germany
-      #   caption: '2005'
-      #   sub_title: Abitur (A Level)
-      # description: |
-
   - title: Language Skills
     layout: list
     content:
