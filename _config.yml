@@ -123,6 +123,16 @@ content:
     layout: list
     content:
       - layout: top-middle
+        title: Divera Monitor
+        link: https://github.com/CaptainStandby/divera-monitor
+        description: |
+          Built a system for automatically turning on and off a situation dashboard in our
+          local firestation upon alarm release.
+          It involved a GCP Cloud function and Pub/Sub message queue for listening and relaying
+          incoming alarms to a locally deployed linux service to turn a connected display ond and off.
+          
+          **Primary skills: Go, Terraform, GCP (Functions, Pub/Sub)**
+      - layout: top-middle
         title: Wedding RSVP App
         link: https://gitlab.com/henning-private/wedding-rsvp
         description: |
