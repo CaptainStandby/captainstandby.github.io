@@ -50,11 +50,11 @@ content:
         sub_title: Project Manager & Software Engineer
         caption: Since October 2023
         description: |
-          Ainses TODO...
-          blabla
-          bla
+          Developed a web app using Firebase to assist users in evolving business strategies.
+          - Communicated with stakeholders and collected requirements
+          - Implemented 
           
-          **Primary skills: Typescript, React, Firebase (Firestore, Functions, Storage, Hosting, App Check, Authentication), Playwright**
+          **Primary skills: Typescript, React, GCP (Firebase), Playwright, Terraform**
 
       - layout: left
         title: Ory Corp
@@ -140,7 +140,7 @@ content:
         link: https://github.com/CaptainStandby/divera-monitor
         description: |
           Built a system for automatically turning on and off a situation dashboard in our
-          local firestation upon alarm release.
+          local fire station upon alarm release.
           It involved a GCP Cloud function and Pub/Sub message queue for listening and relaying
           incoming alarms to a locally deployed linux service to turn a connected display ond and off.
           
