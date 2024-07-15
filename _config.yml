@@ -44,6 +44,19 @@ content:
     layout: list
     content:
       - layout: left
+        title: Breckwoldt IT
+        link: https://breckwoldt-it.de/
+        link_text: breckwoldt-it.de
+        sub_title: Project Manager & Software Engineer
+        caption: Since October 2023
+        description: |
+          Ainses TODO...
+          blabla
+          bla
+          
+          **Primary skills: Typescript, React, Firebase (Firestore, Functions, Storage, Hosting, App Check, Authentication), Playwright**
+
+      - layout: left
         title: Ory Corp
         link: https://www.ory.sh/
         link_text: ory.sh
@@ -214,9 +227,8 @@ content:
     layout: text
     content: |
       Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Hiking
-      - Cycling
-      - Cooking
+      - Hiking & Cycling
+      - Hunting & Cooking
       - and I'm a volunteer firefighter
 
 # Footer
