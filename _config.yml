@@ -50,11 +50,14 @@ content:
         sub_title: Project Manager & Software Engineer
         caption: Since October 2023
         description: |
-          Developed a web app using Firebase to assist users in evolving business strategies.
-          - Communicated with stakeholders and collected requirements
-          - Implemented 
+          Developed a web app using Firebase to assist users in evolving their business strategies.
+          - Communicated with stakeholders to gather, organize and refine feature requirements.
+          - Planned, organized and implemented the necessary infrastructure and deployment processes
+            using Terraform and GitLab Pipelines.
+          - Built the Front- and Backend as an SPA utilizing React, Firestore and Cloud Functions.
+          - Setup automatic E2E-Tests with Playwright to run on live instances and temporary environments.
           
-          **Primary skills: Typescript, React, GCP (Firebase), Playwright, Terraform**
+          **Primary skills: Typescript, React, GCP (Firebase), Playwright, Terraform, GitLab Pipelines**
 
       - layout: left
         title: Ory Corp
