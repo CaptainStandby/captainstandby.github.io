@@ -35,7 +35,7 @@ about_content: >
   My work covered multifaceted projects providing me with comprehensive teamwork and
   technology skills as well as deep insights in requirements analysis.
   <br>
-  I'm most skilled in C#, Typescript, Go, Kubernetes and Azure.
+  I'm most skilled in Typescript, Go, C#, Kubernetes, GCP and Azure.
   <br>
   My motivation comes from learning new things, expanding my skill set and solving difficult problems.
 
@@ -56,7 +56,7 @@ content:
             using Terraform and GitLab Pipelines.
           - Built the Front- and Backend as an SPA utilizing React, Firestore and Cloud Functions.
           - Setup automatic E2E-Tests with Playwright to run on live instances and temporary environments.
-          
+
           **Primary skills: Typescript, React, GCP (Firebase), Playwright, Terraform, GitLab Pipelines**
 
       - layout: left
@@ -73,7 +73,7 @@ content:
             to give users insights into their systems.
           - Migrated and refactored E2E Tests from TestCafe to Playwright.
           - Implemented various features and bug fixes in user authentication components.
-          
+
           **Primary skills: Go, Typescript, GCP, Playwright**
 
       - layout: left
@@ -95,8 +95,8 @@ content:
           - Leading the project to rebuild the frontend as a single-page application using .NET Core, Vue.js and TypeScript.
           - Designing and implementing an event sourcing framework in .NET Core
           - Implementing a GraphQL-API Gateway in Typescript utilizing gRPC for backend communication.
-          
-          **Primary skills: C#, Typescript, Kubernetes, Azure**
+
+          **Primary skills: C#, Typescript, Kubernetes, Terraform, Azure**
 
       - layout: left
         title: EyeC GmbH
@@ -109,7 +109,7 @@ content:
           - Expansion and evolution of a C++ MFC based application using C++/CLI and C#.
           - Serving customers primarily from the pharmaceutical industry and expanding the software with respect to strict industry standards and regulations.
           - Developed and maintained build pipelines using SVN, MSBuild and CruiseControl.NET.
-          
+
           **Primary skills: C++, C#, MSBuild, Windows**
 
       - title: Daedalic Entertainment GmbH
@@ -120,7 +120,7 @@ content:
         caption: February 2010
         description: |
           Research into expanding the game development toolchain using the Unreal Engine.
-          
+
           **Primary skills: Unreal Engine**
 
       - title: Airbus (EADS Innovation Works)
@@ -132,7 +132,7 @@ content:
         description: |
           Research and development of an optimization software for simulated water
           distribution piping systems using C#.
-          
+
           **Primary skills: C#, C**
 
   - title: Projects
@@ -146,7 +146,7 @@ content:
           local fire station upon alarm release.
           It involved a GCP Cloud function and Pub/Sub message queue for listening and relaying
           incoming alarms to a locally deployed linux service to turn a connected display ond and off.
-          
+
           **Primary skills: Go, Terraform, GCP (Functions, Pub/Sub)**
       - layout: top-middle
         title: Wedding RSVP App
@@ -154,7 +154,7 @@ content:
         description: |
           For my wedding in 2022 I developed a completely digital invitation and RSVP
           website utilizing Googles Firebase and React.js.
-          
+
           **Primary skills: Typescript, React.js, Firebase**
       - layout: top-middle
         title: Analog Gauge Reader
@@ -166,7 +166,7 @@ content:
           to capture pictures of the gauges. Using image processing with OpenCV I
           implemented a service in Python to measure the displayed temperature. The
           measurements were then exposed via a Prometheus interface.
-          
+
           **Primary skills: Python, OpenCV**
 
   - title: Skills
@@ -213,7 +213,7 @@ content:
           Metropolitan Area in Northern Germany.
         description: |
           My primary fields of study were in computer graphics and virtual reality.
-          
+
           **Primary skills: C++, OpenGL, Linux**
 
   - title: Language Skills
