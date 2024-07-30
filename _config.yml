@@ -44,7 +44,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Breckwoldt IT
+        title: Breckwoldt GmbH
         link: https://breckwoldt-it.de/
         link_text: breckwoldt-it.de
         sub_title: Project Manager & Software Engineer
