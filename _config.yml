@@ -57,7 +57,7 @@ content:
           - Built the Front- and Backend as an SPA utilizing React, Firestore and Cloud Functions.
           - Setup automatic E2E-Tests with Playwright to run on live instances and temporary environments.
 
-          **Primary skills: Typescript, React, GCP (Firebase), Playwright, Terraform, GitLab Pipelines**
+          **Tech Stack: Typescript, React, GCP (Firebase), Playwright, Terraform, GitLab Pipelines**
 
       - layout: left
         title: Ory Corp
@@ -74,7 +74,7 @@ content:
           - Migrated and refactored E2E Tests from TestCafe to Playwright.
           - Implemented various features and bug fixes in user authentication components.
 
-          **Primary skills: Go, Typescript, GCP, Playwright**
+          **Tech Stack: Go, Typescript, GCP, Playwright**
 
       - layout: left
         title: EyeC GmbH
@@ -96,7 +96,7 @@ content:
           - Designing and implementing an event sourcing framework in .NET Core
           - Implementing a GraphQL-API Gateway in Typescript utilizing gRPC for backend communication.
 
-          **Primary skills: C#, Typescript, Kubernetes, Terraform, Azure**
+          **Tech Stack: C#, Typescript, Kubernetes, Terraform, Azure**
 
       - layout: left
         title: EyeC GmbH
@@ -110,7 +110,7 @@ content:
           - Serving customers primarily from the pharmaceutical industry and expanding the software with respect to strict industry standards and regulations.
           - Developed and maintained build pipelines using SVN, MSBuild and CruiseControl.NET.
 
-          **Primary skills: C++, C#, MSBuild, Windows**
+          **Tech Stack: C++, C#, MSBuild, Windows**
 
       - title: Daedalic Entertainment GmbH
         layout: left
@@ -121,7 +121,7 @@ content:
         description: |
           Research into expanding the game development toolchain using the Unreal Engine.
 
-          **Primary skills: Unreal Engine**
+          **Tech Stack: Unreal Engine**
 
       - title: Airbus (EADS Innovation Works)
         layout: left
@@ -133,7 +133,7 @@ content:
           Research and development of an optimization software for simulated water
           distribution piping systems using C#.
 
-          **Primary skills: C#, C**
+          **Tech Stack: C#, C**
 
   - title: Projects
     layout: list
@@ -147,7 +147,7 @@ content:
           It involved a GCP Cloud function and Pub/Sub message queue for listening and relaying
           incoming alarms to a locally deployed linux service to turn a connected display ond and off.
 
-          **Primary skills: Go, Terraform, GCP (Functions, Pub/Sub)**
+          **Tech Stack: Go, Terraform, GCP (Functions, Pub/Sub)**
       - layout: top-middle
         title: Wedding RSVP App
         link: https://gitlab.com/henning-private/wedding-rsvp
@@ -155,7 +155,7 @@ content:
           For my wedding in 2022 I developed a completely digital invitation and RSVP
           website utilizing Googles Firebase and React.js.
 
-          **Primary skills: Typescript, React.js, Firebase**
+          **Tech Stack: Typescript, React.js, Firebase**
       - layout: top-middle
         title: Analog Gauge Reader
         link: https://github.com/CaptainStandby/analog_gauge_reader
@@ -167,7 +167,7 @@ content:
           implemented a service in Python to measure the displayed temperature. The
           measurements were then exposed via a Prometheus interface.
 
-          **Primary skills: Python, OpenCV**
+          **Tech Stack: Python, OpenCV**
 
   - title: Skills
     layout: list
@@ -214,7 +214,7 @@ content:
         description: |
           My primary fields of study were in computer graphics and virtual reality.
 
-          **Primary skills: C++, OpenGL, Linux**
+          **Tech Stack: C++, Java, OpenGL, Linux**
 
   - title: Language Skills
     layout: list
