@@ -229,10 +229,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: |
-      Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Hiking & Cycling
-      - Hunting & Cooking
-      - and I'm a volunteer firefighter
+      Alongside my interests in software engineering some of my other interests and hobbies are:<br>
+      Hiking, Cycling, Hunting, Cooking and I'm a volunteer firefighter
 
 # Footer
 footer_show_references: false
