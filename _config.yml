@@ -44,11 +44,20 @@ content:
     layout: list
     content:
       - layout: left
+        title: E. Breuninger GmbH & Co.
+        link: https://www.breuninger.com/
+        link_text: breuninger.com
+        sub_title: Software Engineer
+        caption: Since December 2024
+        description: |
+          **Tech Stack: Java, JavaScript, Kubernetes, PostgreSQL, MongoDB, Kafka, Terraform, AWS**
+
+      - layout: left
         title: Breckwoldt GmbH
         link: https://breckwoldt-it.de/
         link_text: breckwoldt-it.de
         sub_title: Project Manager & Software Engineer
-        caption: Since October 2023
+        caption: October 2023 - November 2024
         description: |
           Developed a web app using Firebase to assist users in evolving their business strategies.
           - Communicated with stakeholders to gather, organize and refine feature requirements.
@@ -74,7 +83,7 @@ content:
           - Migrated and refactored E2E Tests from TestCafe to Playwright.
           - Implemented various features and bug fixes in user authentication components.
 
-          **Tech Stack: Go, Typescript, GCP, Playwright**
+          **Tech Stack: Go, Typescript, GCP, Kubernetes, Playwright**
 
       - layout: left
         title: EyeC GmbH
